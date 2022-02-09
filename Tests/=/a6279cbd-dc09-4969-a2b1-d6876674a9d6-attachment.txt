@@ -1,0 +1,12 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:14 Chrome Driver is initializing
+[32mINFO    [0m BaseClass:BasePage.py:21 Web Page Launched with URL : http://backend.tmsapp.2stallions.site/login
+[32mINFO    [0m BaseClass:BasePage.py:69 WebElement found with locator value (//a[normalize-space()='Forgot password?'])[1] using locatorType xpath
+[32mINFO    [0m BaseClass:BasePage.py:81 Clicked on WebElement with locator value (//a[normalize-space()='Forgot password?'])[1] using locatorType xpath
+[32mINFO    [0m BaseClass:BasePage.py:69 WebElement found with locator value email using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:93 Sent the text testing@mail.com in WebElement with locator value email using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:69 WebElement found with locator value //button using locatorType xpath
+[32mINFO    [0m BaseClass:BasePage.py:81 Clicked on WebElement with locator value //button using locatorType xpath
+[32mINFO    [0m BaseClass:BasePage.py:69 WebElement found with locator value //button using locatorType xpath
+[32mINFO    [0m BaseClass:BasePage.py:81 Clicked on WebElement with locator value //button using locatorType xpath
+[32mINFO    [0m BaseClass:BasePage.py:69 WebElement found with locator value .text-primary.ml-2 using locatorType css
+[32mINFO    [0m BaseClass:BasePage.py:81 Clicked on WebElement with locator value .text-primary.ml-2 using locatorType css

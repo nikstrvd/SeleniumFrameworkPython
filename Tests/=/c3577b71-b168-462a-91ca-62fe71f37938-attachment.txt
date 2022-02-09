@@ -1,0 +1,4 @@
+[32mINFO    [0m BaseClass:BasePage.py:74 WebElement found with locator value email using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:102 Sent the text superadmin@mail.com in WebElement with locator value email using locatorType id
+[1m[31mERROR   [0m BaseClass:BasePage.py:76 WebElement not found with locator value password1 using locatorType id
+[1m[31mERROR   [0m BaseClass:BasePage.py:105 Unable to Sent the text 123456 in WebElement with locator value password1using locatorType id
