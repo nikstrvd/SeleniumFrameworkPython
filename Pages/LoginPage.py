@@ -17,7 +17,7 @@ class LoginPage(BaseClass):
     _loginfromforgetpassword = ".text-primary.ml-2" #css
 
     def doLogin(self):
-        self.sendText("superadmin@mail.com", self._email, "id")
+        self.sendText("nikhil@2stallions.com", self._email, "id")
         self.sendText("123456", self._password, "id")
         cl.allureLogs("Entered Username & Password in LoginPage")
 
